@@ -1,0 +1,7 @@
+{
+  "name": "app_financeiro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
